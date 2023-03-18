@@ -1,0 +1,16 @@
+.three-column{
+    column-count: 3;
+    column-gap: 30px;
+    column-width: 200px;
+}
+
+.table-html{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table-html th,
+.table-html td{
+    border: 1px solid black;
+    text-align: center;
+}
