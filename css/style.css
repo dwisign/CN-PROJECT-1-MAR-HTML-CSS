@@ -14,3 +14,21 @@
     border: 1px solid black;
     text-align: center;
 }
+
+body{
+    margin: 0px;
+}
+input,textarea{
+    box-sizing: border-box;
+}
+#kontak{
+   width: 600px;
+   height: auto;
+   border: 5px solid #7C9082;
+   padding: 30px 50px 30px 50px;
+   margin: 0 auto;
+}
+.form-style{
+    width: 100%;
+    padding: 10px;
+}
